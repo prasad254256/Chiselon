@@ -9,7 +9,7 @@ public class ColourClassifiedsTestcases {
 	WebDriver driver= new FirefoxDriver();
 	//For Launching Firefox
 		@Test
-		public void testCase1()
+		public void test_Case1()
 		{
 			driver.get("https://www.facebook.com/");
 		}
